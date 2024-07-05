@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosProg3\\DadosParte2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|d:\\ejerciciosprog3\\dadosparte2\\dadosparte2\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|solutionrelative:dadosparte2\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|d:\\ejerciciosprog3\\dadosparte2\\dadosparte2\\apuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|solutionrelative:dadosparte2\\apuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|d:\\ejerciciosprog3\\dadosparte2\\dadosparte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|solutionrelative:dadosparte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|d:\\ejerciciosprog3\\dadosparte2\\dadosparte2\\jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E28A7FC-6CDE-4BF2-9219-E84AF557A25C}|DadosParte2\\DadosParte2.csproj|solutionrelative:dadosparte2\\jugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jugadores.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Jugadores.cs",
+              "RelativeDocumentMoniker": "DadosParte2\\Jugadores.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Jugadores.cs",
+              "RelativeToolTip": "DadosParte2\\Jugadores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:04:47.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Dado.cs",
+              "RelativeDocumentMoniker": "DadosParte2\\Dado.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Dado.cs",
+              "RelativeToolTip": "DadosParte2\\Dado.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwIAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:04:26.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apuestas.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Apuestas.cs",
+              "RelativeDocumentMoniker": "DadosParte2\\Apuestas.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Apuestas.cs",
+              "RelativeToolTip": "DadosParte2\\Apuestas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:04:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Program.cs",
+              "RelativeDocumentMoniker": "DadosParte2\\Program.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\DadosParte2\\DadosParte2\\Program.cs",
+              "RelativeToolTip": "DadosParte2\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAF4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:58:05.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

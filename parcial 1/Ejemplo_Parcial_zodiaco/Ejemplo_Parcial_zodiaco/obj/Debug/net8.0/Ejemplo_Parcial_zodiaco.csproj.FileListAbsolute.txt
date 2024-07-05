@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\bin\Debug\net8.0\Ejemplo_Parcial_zodiaco.exe
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\bin\Debug\net8.0\Ejemplo_Parcial_zodiaco.deps.json
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\bin\Debug\net8.0\Ejemplo_Parcial_zodiaco.runtimeconfig.json
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\bin\Debug\net8.0\Ejemplo_Parcial_zodiaco.dll
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\bin\Debug\net8.0\Ejemplo_Parcial_zodiaco.pdb
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\Ejemplo_Parcial_zodiaco.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\Ejemplo_Parcial_zodiaco.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\Ejemplo_Parcial_zodiaco.AssemblyInfo.cs
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\Ejemplo_Parcial_zodiaco.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\Ejemplo_Parcial_zodiaco.dll
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\refint\Ejemplo_Parcial_zodiaco.dll
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\Ejemplo_Parcial_zodiaco.pdb
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\Ejemplo_Parcial_zodiaco.genruntimeconfig.cache
+D:\EjerciciosProg3\Ejemplo_Parcial_zodiaco\Ejemplo_Parcial_zodiaco\obj\Debug\net8.0\ref\Ejemplo_Parcial_zodiaco.dll

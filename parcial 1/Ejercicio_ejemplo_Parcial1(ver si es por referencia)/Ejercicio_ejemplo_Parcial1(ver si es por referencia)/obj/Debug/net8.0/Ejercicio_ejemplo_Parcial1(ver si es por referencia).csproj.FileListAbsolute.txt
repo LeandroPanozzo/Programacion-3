@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\bin\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).exe
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\bin\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).deps.json
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\bin\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).runtimeconfig.json
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\bin\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).dll
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\bin\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).pdb
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).AssemblyInfo.cs
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).dll
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\refint\Ejercicio_ejemplo_Parcial1(ver si es por referencia).dll
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).pdb
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\Ejercicio_ejemplo_Parcial1(ver si es por referencia).genruntimeconfig.cache
+D:\EjerciciosProg3\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\Ejercicio_ejemplo_Parcial1(ver si es por referencia)\obj\Debug\net8.0\ref\Ejercicio_ejemplo_Parcial1(ver si es por referencia).dll

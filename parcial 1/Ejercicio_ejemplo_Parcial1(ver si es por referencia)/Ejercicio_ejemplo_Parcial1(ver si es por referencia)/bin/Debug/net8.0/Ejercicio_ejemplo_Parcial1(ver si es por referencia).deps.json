@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio_ejemplo_Parcial1(ver si es por referencia)/1.0.0": {
+        "runtime": {
+          "Ejercicio_ejemplo_Parcial1(ver si es por referencia).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_ejemplo_Parcial1(ver si es por referencia)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

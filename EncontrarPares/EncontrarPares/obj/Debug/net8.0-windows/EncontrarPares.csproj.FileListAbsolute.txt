@@ -1,0 +1,17 @@
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\bin\Debug\net8.0-windows\EncontrarPares.exe
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\bin\Debug\net8.0-windows\EncontrarPares.deps.json
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\bin\Debug\net8.0-windows\EncontrarPares.runtimeconfig.json
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\bin\Debug\net8.0-windows\EncontrarPares.dll
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\bin\Debug\net8.0-windows\EncontrarPares.pdb
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.Form1.resources
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.csproj.GenerateResource.cache
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.AssemblyInfo.cs
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.dll
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\refint\EncontrarPares.dll
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.pdb
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.genruntimeconfig.cache
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\ref\EncontrarPares.dll
+D:\EjerciciosProg3\EncontrarPares\EncontrarPares\obj\Debug\net8.0-windows\EncontrarPares.Form2.resources

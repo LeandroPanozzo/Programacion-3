@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\bin\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.exe
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\bin\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.deps.json
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\bin\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.runtimeconfig.json
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\bin\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.dll
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\bin\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.pdb
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.AssemblyInfo.cs
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.dll
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\refint\Manejo de fechas y tiempo en diferentes clases.dll
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.pdb
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\Manejo de fechas y tiempo en diferentes clases.genruntimeconfig.cache
+D:\EjerciciosProg3\Manejo de fechas y tiempo en diferentes clases\Manejo de fechas y tiempo en diferentes clases\obj\Debug\net8.0\ref\Manejo de fechas y tiempo en diferentes clases.dll

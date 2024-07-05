@@ -1,0 +1,17 @@
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\bin\Debug\net8.0-windows\tateti winforms.exe
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\bin\Debug\net8.0-windows\tateti winforms.deps.json
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\bin\Debug\net8.0-windows\tateti winforms.runtimeconfig.json
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\bin\Debug\net8.0-windows\tateti winforms.dll
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\bin\Debug\net8.0-windows\tateti winforms.pdb
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti_winforms.Form1.resources
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.csproj.GenerateResource.cache
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.dll
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\refint\tateti winforms.dll
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.pdb
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti winforms.genruntimeconfig.cache
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\ref\tateti winforms.dll
+C:\Users\Leandro\Desktop\Prog3\ejercicios parcial 2\tateti winforms\tateti winforms\obj\Debug\net8.0-windows\tateti_winforms.TatetiForm.resources

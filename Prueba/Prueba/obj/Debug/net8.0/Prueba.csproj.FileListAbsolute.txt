@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Prueba\Prueba\bin\Debug\net8.0\Prueba.exe
+D:\EjerciciosProg3\Prueba\Prueba\bin\Debug\net8.0\Prueba.deps.json
+D:\EjerciciosProg3\Prueba\Prueba\bin\Debug\net8.0\Prueba.runtimeconfig.json
+D:\EjerciciosProg3\Prueba\Prueba\bin\Debug\net8.0\Prueba.dll
+D:\EjerciciosProg3\Prueba\Prueba\bin\Debug\net8.0\Prueba.pdb
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\Prueba.dll
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\Prueba.pdb
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\Prueba.genruntimeconfig.cache
+D:\EjerciciosProg3\Prueba\Prueba\obj\Debug\net8.0\ref\Prueba.dll

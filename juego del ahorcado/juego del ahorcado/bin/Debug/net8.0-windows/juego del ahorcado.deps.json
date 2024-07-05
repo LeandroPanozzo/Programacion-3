@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "juego del ahorcado/1.0.0": {
+        "runtime": {
+          "juego del ahorcado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "juego del ahorcado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

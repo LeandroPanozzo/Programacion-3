@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosProg3\\Ejercicio_simulacion_parcial1_con_clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B667B3B-FE73-482E-8E65-5B511E52ED6A}|Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases.csproj|d:\\ejerciciosprog3\\ejercicio_simulacion_parcial1_con_clases\\ejercicio_simulacion_parcial1_con_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B667B3B-FE73-482E-8E65-5B511E52ED6A}|Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases.csproj|solutionrelative:ejercicio_simulacion_parcial1_con_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B667B3B-FE73-482E-8E65-5B511E52ED6A}|Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases.csproj|D:\\EjerciciosProg3\\Ejercicio_simulacion_parcial1_con_clases\\ejercicio_simulacion_parcial1_con_clases\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B667B3B-FE73-482E-8E65-5B511E52ED6A}|Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases.csproj|solutionrelative:ejercicio_simulacion_parcial1_con_clases\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Metodos.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases\\Metodos.cs",
+              "RelativeDocumentMoniker": "Ejercicio_simulacion_parcial1_con_clases\\Metodos.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases\\Metodos.cs",
+              "RelativeToolTip": "Ejercicio_simulacion_parcial1_con_clases\\Metodos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:29:04.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_simulacion_parcial1_con_clases\\Program.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\Ejercicio_simulacion_parcial1_con_clases\\Ejercicio_simulacion_parcial1_con_clases\\Program.cs",
+              "RelativeToolTip": "Ejercicio_simulacion_parcial1_con_clases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:24:00.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

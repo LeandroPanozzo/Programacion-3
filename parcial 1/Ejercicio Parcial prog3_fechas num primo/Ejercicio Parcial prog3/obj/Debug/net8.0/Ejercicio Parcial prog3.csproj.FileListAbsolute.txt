@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\bin\Debug\net8.0\Ejercicio Parcial prog3.exe
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\bin\Debug\net8.0\Ejercicio Parcial prog3.deps.json
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\bin\Debug\net8.0\Ejercicio Parcial prog3.runtimeconfig.json
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\bin\Debug\net8.0\Ejercicio Parcial prog3.dll
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\bin\Debug\net8.0\Ejercicio Parcial prog3.pdb
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\Ejercicio Parcial prog3.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\Ejercicio Parcial prog3.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\Ejercicio Parcial prog3.AssemblyInfo.cs
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\Ejercicio Parcial prog3.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\Ejercicio Parcial prog3.dll
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\refint\Ejercicio Parcial prog3.dll
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\Ejercicio Parcial prog3.pdb
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\Ejercicio Parcial prog3.genruntimeconfig.cache
+D:\EjerciciosProg3\Ejercicio Parcial prog3\Ejercicio Parcial prog3\obj\Debug\net8.0\ref\Ejercicio Parcial prog3.dll

@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\bin\Debug\net8.0\Primera aplicación en C#.exe
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\bin\Debug\net8.0\Primera aplicación en C#.deps.json
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\bin\Debug\net8.0\Primera aplicación en C#.runtimeconfig.json
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\bin\Debug\net8.0\Primera aplicación en C#.dll
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\bin\Debug\net8.0\Primera aplicación en C#.pdb
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\Primera aplicación en C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\Primera aplicación en C#.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\Primera aplicación en C#.AssemblyInfo.cs
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\Primera aplicación en C#.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\Primera aplicación en C#.dll
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\refint\Primera aplicación en C#.dll
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\Primera aplicación en C#.pdb
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\Primera aplicación en C#.genruntimeconfig.cache
+D:\EjerciciosProg3\Primera aplicación en C#\Primera aplicación en C#\obj\Debug\net8.0\ref\Primera aplicación en C#.dll

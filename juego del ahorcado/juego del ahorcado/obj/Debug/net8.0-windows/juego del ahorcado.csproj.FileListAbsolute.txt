@@ -1,0 +1,17 @@
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\bin\Debug\net8.0-windows\juego del ahorcado.exe
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\bin\Debug\net8.0-windows\juego del ahorcado.deps.json
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\bin\Debug\net8.0-windows\juego del ahorcado.runtimeconfig.json
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\bin\Debug\net8.0-windows\juego del ahorcado.dll
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\bin\Debug\net8.0-windows\juego del ahorcado.pdb
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego_del_ahorcado.Ahorcado.resources
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego_del_ahorcado.Form1.resources
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.csproj.GenerateResource.cache
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.AssemblyInfo.cs
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.dll
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\refint\juego del ahorcado.dll
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.pdb
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\juego del ahorcado.genruntimeconfig.cache
+D:\EjerciciosProg3\juego del ahorcado\juego del ahorcado\obj\Debug\net8.0-windows\ref\juego del ahorcado.dll

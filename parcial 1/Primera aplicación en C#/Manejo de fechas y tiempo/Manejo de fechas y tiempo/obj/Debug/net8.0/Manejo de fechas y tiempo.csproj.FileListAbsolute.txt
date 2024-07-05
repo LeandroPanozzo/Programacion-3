@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\bin\Debug\net8.0\Manejo de fechas y tiempo.exe
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\bin\Debug\net8.0\Manejo de fechas y tiempo.deps.json
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\bin\Debug\net8.0\Manejo de fechas y tiempo.runtimeconfig.json
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\bin\Debug\net8.0\Manejo de fechas y tiempo.dll
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\bin\Debug\net8.0\Manejo de fechas y tiempo.pdb
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\Manejo de fechas y tiempo.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\Manejo de fechas y tiempo.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\Manejo de fechas y tiempo.AssemblyInfo.cs
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\Manejo de fechas y tiempo.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\Manejo de fechas y tiempo.dll
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\refint\Manejo de fechas y tiempo.dll
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\Manejo de fechas y tiempo.pdb
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\Manejo de fechas y tiempo.genruntimeconfig.cache
+D:\EjerciciosProg3\Manejo de fechas y tiempo\Manejo de fechas y tiempo\obj\Debug\net8.0\ref\Manejo de fechas y tiempo.dll

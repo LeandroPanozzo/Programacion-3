@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\TeoriPar2.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\TeoriPar2.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\TeoriPar2.AssemblyInfo.cs
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\TeoriPar2.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\bin\Debug\net8.0\TeoriPar2.exe
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\bin\Debug\net8.0\TeoriPar2.deps.json
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\bin\Debug\net8.0\TeoriPar2.runtimeconfig.json
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\bin\Debug\net8.0\TeoriPar2.dll
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\bin\Debug\net8.0\TeoriPar2.pdb
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\TeoriPar2.dll
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\refint\TeoriPar2.dll
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\TeoriPar2.pdb
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\TeoriPar2.genruntimeconfig.cache
+D:\EjerciciosProg3\TeoriPar2\TeoriPar2\obj\Debug\net8.0\ref\TeoriPar2.dll

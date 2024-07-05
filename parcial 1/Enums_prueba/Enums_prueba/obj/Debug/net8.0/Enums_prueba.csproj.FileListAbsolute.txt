@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\bin\Debug\net8.0\Enums_prueba.exe
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\bin\Debug\net8.0\Enums_prueba.deps.json
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\bin\Debug\net8.0\Enums_prueba.runtimeconfig.json
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\bin\Debug\net8.0\Enums_prueba.dll
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\bin\Debug\net8.0\Enums_prueba.pdb
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\Enums_prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\Enums_prueba.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\Enums_prueba.AssemblyInfo.cs
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\Enums_prueba.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\Enums_prueba.dll
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\refint\Enums_prueba.dll
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\Enums_prueba.pdb
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\Enums_prueba.genruntimeconfig.cache
+D:\EjerciciosProg3\Enums_prueba\Enums_prueba\obj\Debug\net8.0\ref\Enums_prueba.dll

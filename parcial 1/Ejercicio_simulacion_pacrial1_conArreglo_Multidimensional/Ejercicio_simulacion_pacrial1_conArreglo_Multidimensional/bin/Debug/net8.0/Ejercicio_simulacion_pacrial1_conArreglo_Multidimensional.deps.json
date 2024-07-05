@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio_simulacion_pacrial1_conArreglo_Multidimensional/1.0.0": {
+        "runtime": {
+          "Ejercicio_simulacion_pacrial1_conArreglo_Multidimensional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_simulacion_pacrial1_conArreglo_Multidimensional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

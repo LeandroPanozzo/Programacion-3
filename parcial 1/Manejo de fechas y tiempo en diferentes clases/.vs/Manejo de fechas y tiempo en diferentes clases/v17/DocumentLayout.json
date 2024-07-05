@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|d:\\ejerciciosprog3\\manejo de fechas y tiempo en diferentes clases\\manejo de fechas y tiempo en diferentes clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|solutionrelative:manejo de fechas y tiempo en diferentes clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|d:\\ejerciciosprog3\\manejo de fechas y tiempo en diferentes clases\\manejo de fechas y tiempo en diferentes clases\\classobtenerdiascalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|solutionrelative:manejo de fechas y tiempo en diferentes clases\\classobtenerdiascalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|d:\\ejerciciosprog3\\manejo de fechas y tiempo en diferentes clases\\manejo de fechas y tiempo en diferentes clases\\classobtenerdiaslaborables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|solutionrelative:manejo de fechas y tiempo en diferentes clases\\classobtenerdiaslaborables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|d:\\ejerciciosprog3\\manejo de fechas y tiempo en diferentes clases\\manejo de fechas y tiempo en diferentes clases\\classsumardiaslaborables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECA6182-6A62-4038-A00B-E2614B8B2D77}|Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases.csproj|solutionrelative:manejo de fechas y tiempo en diferentes clases\\classsumardiaslaborables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassSumarDiasLaborables.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\ClassSumarDiasLaborables.cs",
+              "RelativeDocumentMoniker": "Manejo de fechas y tiempo en diferentes clases\\ClassSumarDiasLaborables.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\ClassSumarDiasLaborables.cs",
+              "RelativeToolTip": "Manejo de fechas y tiempo en diferentes clases\\ClassSumarDiasLaborables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:04:05.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassObtenerDiasLaborables.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasLaborables.cs",
+              "RelativeDocumentMoniker": "Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasLaborables.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasLaborables.cs",
+              "RelativeToolTip": "Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasLaborables.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:03:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassObtenerDiasCalendario.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasCalendario.cs",
+              "RelativeDocumentMoniker": "Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasCalendario.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasCalendario.cs",
+              "RelativeToolTip": "Manejo de fechas y tiempo en diferentes clases\\ClassObtenerDiasCalendario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:02:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\Program.cs",
+              "RelativeDocumentMoniker": "Manejo de fechas y tiempo en diferentes clases\\Program.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\Manejo de fechas y tiempo en diferentes clases\\Manejo de fechas y tiempo en diferentes clases\\Program.cs",
+              "RelativeToolTip": "Manejo de fechas y tiempo en diferentes clases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:59:52.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

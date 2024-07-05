@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EjerciciosProg3\\EncontrarPares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|d:\\ejerciciosprog3\\encontrarpares\\encontrarpares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|solutionrelative:encontrarpares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|D:\\EjerciciosProg3\\EncontrarPares\\encontrarpares\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|solutionrelative:encontrarpares\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|d:\\ejerciciosprog3\\encontrarpares\\encontrarpares\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|solutionrelative:encontrarpares\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|d:\\ejerciciosprog3\\encontrarpares\\encontrarpares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F998032D-71A7-4F1C-94B0-75082D8FA32B}|EncontrarPares\\EncontrarPares.csproj|solutionrelative:encontrarpares\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form1.cs",
+              "RelativeDocumentMoniker": "EncontrarPares\\Form1.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EncontrarPares\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:40:00.635Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form2.cs",
+              "RelativeDocumentMoniker": "EncontrarPares\\Form2.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form2.cs",
+              "RelativeToolTip": "EncontrarPares\\Form2.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:21:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form2.cs",
+              "RelativeDocumentMoniker": "EncontrarPares\\Form2.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EncontrarPares\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:20:35.637Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form1.cs",
+              "RelativeDocumentMoniker": "EncontrarPares\\Form1.cs",
+              "ToolTip": "D:\\EjerciciosProg3\\EncontrarPares\\EncontrarPares\\Form1.cs",
+              "RelativeToolTip": "EncontrarPares\\Form1.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA0wD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:19:07.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

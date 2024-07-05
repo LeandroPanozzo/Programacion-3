@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\bin\Debug\net8.0\Estructuras de decisión en C#.exe
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\bin\Debug\net8.0\Estructuras de decisión en C#.deps.json
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\bin\Debug\net8.0\Estructuras de decisión en C#.runtimeconfig.json
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\bin\Debug\net8.0\Estructuras de decisión en C#.dll
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\bin\Debug\net8.0\Estructuras de decisión en C#.pdb
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\Estructuras de decisión en C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\Estructuras de decisión en C#.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\Estructuras de decisión en C#.AssemblyInfo.cs
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\Estructuras de decisión en C#.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\Estructuras de decisión en C#.dll
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\refint\Estructuras de decisión en C#.dll
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\Estructuras de decisión en C#.pdb
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\Estructuras de decisión en C#.genruntimeconfig.cache
+D:\EjerciciosProg3\Estructuras de decisión en C#\Estructuras de decisión en C#\obj\Debug\net8.0\ref\Estructuras de decisión en C#.dll

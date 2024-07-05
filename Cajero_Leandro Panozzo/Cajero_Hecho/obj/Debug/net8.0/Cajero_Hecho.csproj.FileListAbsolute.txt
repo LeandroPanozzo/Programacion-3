@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\bin\Debug\net8.0\Cajero_Hecho.exe
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\bin\Debug\net8.0\Cajero_Hecho.deps.json
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\bin\Debug\net8.0\Cajero_Hecho.runtimeconfig.json
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\bin\Debug\net8.0\Cajero_Hecho.dll
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\bin\Debug\net8.0\Cajero_Hecho.pdb
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\Cajero_Hecho.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\Cajero_Hecho.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\Cajero_Hecho.AssemblyInfo.cs
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\Cajero_Hecho.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\Cajero_Hecho.dll
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\refint\Cajero_Hecho.dll
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\Cajero_Hecho.pdb
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\Cajero_Hecho.genruntimeconfig.cache
+D:\EjerciciosProg3\Cajero_Leandro Panozzo\Cajero_Hecho\obj\Debug\net8.0\ref\Cajero_Hecho.dll

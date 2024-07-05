@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\bin\Debug\net8.0\Modificadores por parametro C#.exe
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\bin\Debug\net8.0\Modificadores por parametro C#.deps.json
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\bin\Debug\net8.0\Modificadores por parametro C#.runtimeconfig.json
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\bin\Debug\net8.0\Modificadores por parametro C#.dll
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\bin\Debug\net8.0\Modificadores por parametro C#.pdb
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\Modificadores por parametro C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\Modificadores por parametro C#.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\Modificadores por parametro C#.AssemblyInfo.cs
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\Modificadores por parametro C#.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\Modificadores por parametro C#.dll
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\refint\Modificadores por parametro C#.dll
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\Modificadores por parametro C#.pdb
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\Modificadores por parametro C#.genruntimeconfig.cache
+D:\EjerciciosProg3\Modificadores por parametro C#\Modificadores por parametro C#\obj\Debug\net8.0\ref\Modificadores por parametro C#.dll

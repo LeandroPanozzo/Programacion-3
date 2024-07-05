@@ -1,0 +1,17 @@
+D:\EjerciciosProg3\SimonDice\SimonDice\bin\Debug\net8.0-windows\SimonDice.exe
+D:\EjerciciosProg3\SimonDice\SimonDice\bin\Debug\net8.0-windows\SimonDice.deps.json
+D:\EjerciciosProg3\SimonDice\SimonDice\bin\Debug\net8.0-windows\SimonDice.runtimeconfig.json
+D:\EjerciciosProg3\SimonDice\SimonDice\bin\Debug\net8.0-windows\SimonDice.dll
+D:\EjerciciosProg3\SimonDice\SimonDice\bin\Debug\net8.0-windows\SimonDice.pdb
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.Form1.resources
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.Properties.Resources.resources
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.csproj.GenerateResource.cache
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.AssemblyInfo.cs
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.dll
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\refint\SimonDice.dll
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.pdb
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\SimonDice.genruntimeconfig.cache
+D:\EjerciciosProg3\SimonDice\SimonDice\obj\Debug\net8.0-windows\ref\SimonDice.dll

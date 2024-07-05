@@ -1,0 +1,17 @@
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\bin\Debug\net8.0-windows\generar el texto aleatorio.exe
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\bin\Debug\net8.0-windows\generar el texto aleatorio.deps.json
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\bin\Debug\net8.0-windows\generar el texto aleatorio.runtimeconfig.json
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\bin\Debug\net8.0-windows\generar el texto aleatorio.dll
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\bin\Debug\net8.0-windows\generar el texto aleatorio.pdb
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar_el_texto_aleatorio.Form1.resources
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.csproj.GenerateResource.cache
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.AssemblyInfo.cs
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.dll
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\refint\generar el texto aleatorio.dll
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.pdb
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar el texto aleatorio.genruntimeconfig.cache
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\ref\generar el texto aleatorio.dll
+D:\EjerciciosProg3\generar el texto aleatorio\generar el texto aleatorio\obj\Debug\net8.0-windows\generar_el_texto_aleatorio.AbrirArchivoBtn.resources

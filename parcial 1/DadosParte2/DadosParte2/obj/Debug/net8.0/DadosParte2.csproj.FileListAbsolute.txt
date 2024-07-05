@@ -1,0 +1,14 @@
+D:\EjerciciosProg3\DadosParte2\DadosParte2\bin\Debug\net8.0\DadosParte2.exe
+D:\EjerciciosProg3\DadosParte2\DadosParte2\bin\Debug\net8.0\DadosParte2.deps.json
+D:\EjerciciosProg3\DadosParte2\DadosParte2\bin\Debug\net8.0\DadosParte2.runtimeconfig.json
+D:\EjerciciosProg3\DadosParte2\DadosParte2\bin\Debug\net8.0\DadosParte2.dll
+D:\EjerciciosProg3\DadosParte2\DadosParte2\bin\Debug\net8.0\DadosParte2.pdb
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\DadosParte2.GeneratedMSBuildEditorConfig.editorconfig
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\DadosParte2.AssemblyInfoInputs.cache
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\DadosParte2.AssemblyInfo.cs
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\DadosParte2.csproj.CoreCompileInputs.cache
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\DadosParte2.dll
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\refint\DadosParte2.dll
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\DadosParte2.pdb
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\DadosParte2.genruntimeconfig.cache
+D:\EjerciciosProg3\DadosParte2\DadosParte2\obj\Debug\net8.0\ref\DadosParte2.dll
